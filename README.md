@@ -1,15 +1,15 @@
 # Text-summarization-tool 
-* CAMPANY * : CODTECH IT SOLUTION
+* CAMPANY  : CODTECH IT SOLUTION
 
-* NAME * :Kasala Suvarna Nandini
+* NAME  :Kasala Suvarna Nandini
 
-* INTERN ID * : CODF56
+* INTERN ID  : CODF56
 
-* DOMAIN * : Artifical Intelligence
+* DOMAIN  : Artifical Intelligence
 
-* DURATION *: 4 WEEKS
+* DURATION : 4 WEEKS
 
-* MENTOR * : NEELA SANTOSH
+* MENTOR  : NEELA SANTOSH
 
 ## Project Describtion : 
 A text summarization tool is a software application designed to condense large volumes of text into concise summaries while retaining the essential meaning and key points. In the digital age, where information overload is a common challenge, these tools play a crucial role in helping users process content efficiently. Text summarization is a branch of **Natural Language Processing (NLP)** that utilizes **Artificial Intelligence (AI)** to identify and extract significant information from documents, articles, or reports. The primary goal of a summarization tool is to reduce reading time while maintaining accuracy and coherence in the final summary.
@@ -23,5 +23,5 @@ Text summarization tools have numerous applications across various industries. I
 Some widely used text summarization tools include **GPT-based summarizers**, which leverage advanced AI models, **SMMRY**, which focuses on extracting key sentences, and **SummarizeBot**, a machine learning-based solution for text condensation. The benefits of these tools are evident—they save time, reduce cognitive overload, and improve comprehension by highlighting the most crucial information. 
 
 As technology continues to evolve, text summarization tools are becoming increasingly sophisticated, integrating **context-aware AI**, **semantic understanding**, and **adaptive learning** to refine summaries further. In an era where information processing is crucial, these tools provide users with efficient ways to digest content, making knowledge acquisition faster and more effective. Their future holds exciting possibilities, from real-time summarization of live conversations to AI-assisted summarization that tailors summaries to individual user preferences.
-* output * :
+* output  :
   
